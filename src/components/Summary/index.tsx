@@ -1,9 +1,9 @@
 /** @format */
 
-import { Container } from '../Summary/styles';
-import IncomeImg from '../assets/income.svg';
-import OutcomeImg from '../assets/outcome.svg';
-import totalImg from '../assets/total.svg';
+import { Container } from './styles';
+import IncomeImg from '../../assets/income.svg';
+import OutcomeImg from '../../assets/outcome.svg';
+import totalImg from '../../assets/total.svg';
 
 export function Summary() {
 	return (
